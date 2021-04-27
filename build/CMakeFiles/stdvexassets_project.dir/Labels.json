@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/dsutanto/BP/GIT/stdvexassets/build/CMakeFiles/stdvexassets_project"
+		},
+		{
+			"file" : "/home/dsutanto/BP/GIT/stdvexassets/build/CMakeFiles/stdvexassets_project.rule"
+		},
+		{
+			"file" : "/home/dsutanto/BP/GIT/stdvexassets/build/CMakeFiles/stdvexassets_project-complete.rule"
+		},
+		{
+			"file" : "/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-install.rule"
+		},
+		{
+			"file" : "/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-mkdir.rule"
+		},
+		{
+			"file" : "/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-download.rule"
+		},
+		{
+			"file" : "/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-update.rule"
+		},
+		{
+			"file" : "/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-patch.rule"
+		},
+		{
+			"file" : "/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-configure.rule"
+		},
+		{
+			"file" : "/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-build.rule"
+		},
+		{
+			"file" : "/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stdvexassets_project"
+		],
+		"name" : "stdvexassets_project"
+	}
+}

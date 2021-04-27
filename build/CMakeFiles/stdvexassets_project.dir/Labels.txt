@@ -1,0 +1,14 @@
+# Target labels
+ stdvexassets_project
+# Source files and their labels
+/home/dsutanto/BP/GIT/stdvexassets/build/CMakeFiles/stdvexassets_project
+/home/dsutanto/BP/GIT/stdvexassets/build/CMakeFiles/stdvexassets_project.rule
+/home/dsutanto/BP/GIT/stdvexassets/build/CMakeFiles/stdvexassets_project-complete.rule
+/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-install.rule
+/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-mkdir.rule
+/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-download.rule
+/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-update.rule
+/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-patch.rule
+/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-configure.rule
+/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-build.rule
+/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets_project-prefix/src/stdvexassets_project-stamp/stdvexassets_project-test.rule

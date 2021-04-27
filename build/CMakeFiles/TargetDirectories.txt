@@ -1,0 +1,3 @@
+/home/dsutanto/BP/GIT/stdvexassets/build/CMakeFiles/rebuild_cache.dir
+/home/dsutanto/BP/GIT/stdvexassets/build/CMakeFiles/stdvexassets_project.dir
+/home/dsutanto/BP/GIT/stdvexassets/build/CMakeFiles/edit_cache.dir

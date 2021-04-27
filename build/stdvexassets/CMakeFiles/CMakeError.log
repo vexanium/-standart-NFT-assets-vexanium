@@ -1,0 +1,108 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/eosio-cc 
+Build flags: ;-O3;
+Id flags:  
+
+The output was:
+255
+/usr/opt/eosio.cdt/1.6.3/bin/wasm-ld: error: fatal failure: contract with no actions and trying to create dispatcher
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/eosio-cpp 
+Build flags: ;-O3;
+Id flags:  
+
+The output was:
+255
+/usr/opt/eosio.cdt/1.6.3/bin/wasm-ld: error: fatal failure: contract with no actions and trying to create dispatcher
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e06d3/fast"
+make[3]: Entering directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_e06d3.dir/build.make CMakeFiles/cmTC_e06d3.dir/build
+make[4]: Entering directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e06d3.dir/CMakeCCompilerABI.c.obj
+/usr/bin/eosio-cc    -o CMakeFiles/cmTC_e06d3.dir/CMakeCCompilerABI.c.obj   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_e06d3.wasm
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e06d3.dir/link.txt --verbose=1
+/usr/bin/eosio-ld  -v CMakeFiles/cmTC_e06d3.dir/CMakeCCompilerABI.c.obj -o cmTC_e06d3.wasm 
+eosio-ld: Unknown command line argument '-v'.  Try: '/usr/bin/eosio-ld -help'
+eosio-ld: Did you mean '-L'?
+CMakeFiles/cmTC_e06d3.dir/build.make:97: recipe for target 'cmTC_e06d3.wasm' failed
+make[4]: *** [cmTC_e06d3.wasm] Error 1
+make[4]: Leaving directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e06d3/fast' failed
+make[3]: *** [cmTC_e06d3/fast] Error 2
+make[3]: Leaving directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+
+
+
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4d6d6/fast"
+make[3]: Entering directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_4d6d6.dir/build.make CMakeFiles/cmTC_4d6d6.dir/build
+make[4]: Entering directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4d6d6.dir/feature_tests.c.obj
+/usr/bin/eosio-cc   -std=c11 -o CMakeFiles/cmTC_4d6d6.dir/feature_tests.c.obj   -c /home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/feature_tests.c
+eosio-cc: Unknown command line argument '-std=c11'.  Try: '/usr/bin/eosio-cc -help'
+eosio-cc: Did you mean '-w=c11'?
+CMakeFiles/cmTC_4d6d6.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_4d6d6.dir/feature_tests.c.obj' failed
+make[4]: *** [CMakeFiles/cmTC_4d6d6.dir/feature_tests.c.obj] Error 1
+make[4]: Leaving directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_4d6d6/fast' failed
+make[3]: *** [cmTC_4d6d6/fast] Error 2
+make[3]: Leaving directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_32a55/fast"
+make[3]: Entering directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_32a55.dir/build.make CMakeFiles/cmTC_32a55.dir/build
+make[4]: Entering directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_32a55.dir/CMakeCXXCompilerABI.cpp.obj
+/usr/bin/eosio-cpp     -o CMakeFiles/cmTC_32a55.dir/CMakeCXXCompilerABI.cpp.obj -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_32a55.wasm
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_32a55.dir/link.txt --verbose=1
+/usr/bin/eosio-ld  -v CMakeFiles/cmTC_32a55.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_32a55.wasm 
+eosio-ld: Unknown command line argument '-v'.  Try: '/usr/bin/eosio-ld -help'
+eosio-ld: Did you mean '-L'?
+CMakeFiles/cmTC_32a55.dir/build.make:97: recipe for target 'cmTC_32a55.wasm' failed
+make[4]: *** [cmTC_32a55.wasm] Error 1
+make[4]: Leaving directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_32a55/fast' failed
+make[3]: *** [cmTC_32a55/fast] Error 2
+make[3]: Leaving directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cc99c/fast"
+make[3]: Entering directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_cc99c.dir/build.make CMakeFiles/cmTC_cc99c.dir/build
+make[4]: Entering directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_cc99c.dir/feature_tests.cxx.obj
+/usr/bin/eosio-cpp    -std=c++1z -o CMakeFiles/cmTC_cc99c.dir/feature_tests.cxx.obj -c /home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_cc99c.wasm
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cc99c.dir/link.txt --verbose=1
+/usr/bin/eosio-ld   CMakeFiles/cmTC_cc99c.dir/feature_tests.cxx.obj -o cmTC_cc99c.wasm 
+/usr/opt/eosio.cdt/1.6.3/bin/wasm-ld: error: fatal failure: contract with no actions and trying to create dispatcher
+CMakeFiles/cmTC_cc99c.dir/build.make:97: recipe for target 'cmTC_cc99c.wasm' failed
+make[4]: *** [cmTC_cc99c.wasm] Error 255
+make[4]: Leaving directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_cc99c/fast' failed
+make[3]: *** [cmTC_cc99c/fast] Error 2
+make[3]: Leaving directory '/home/dsutanto/BP/GIT/stdvexassets/build/stdvexassets/CMakeFiles/CMakeTmp'
+
+
+

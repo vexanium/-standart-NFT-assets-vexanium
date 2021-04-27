@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dsutanto/BP/GIT/stdvexassets/src/../include/backtoken.hpp
+eosio/eosio.hpp
+-
+eosio/asset.hpp
+-
+eosio/singleton.hpp
+-
+eosio/transaction.hpp
+-
+stdvexassets.hpp
+-
+
+/home/dsutanto/BP/GIT/stdvexassets/src/../include/stdvexassets.hpp
+eosio/eosio.hpp
+-
+eosio/asset.hpp
+-
+eosio/singleton.hpp
+-
+eosio/transaction.hpp
+-
+
+/home/dsutanto/BP/GIT/stdvexassets/src/stdvexassets.cpp
+stdvexassets.hpp
+-
+backtoken.hpp
+-
+

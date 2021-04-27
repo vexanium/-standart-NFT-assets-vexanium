@@ -1,0 +1,1 @@
+/usr/bin/eosio-ld  CMakeFiles/stdvexassets.dir/stdvexassets.obj -o stdvexassets.wasm 
