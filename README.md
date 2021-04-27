@@ -1,6 +1,6 @@
 # Smart Contract: stdvexassets
 Standard Vexanium Assets
-### Create BY <a href="https://github.com/proitlab/stdvexassets">proit</a> 
+### Create BY <a href="https://github.com/proitlab/stdvexassets">proitlab</a> 
 ## NFT - Non Fungible Token
 
 ### CREATE
